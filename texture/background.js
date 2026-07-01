@@ -1,5 +1,5 @@
 const URL_MAP = {
-  "||miniblox.*textures/spritesheet.png": "https://raw.githubusercontent.com/juggernautkohaku-cell/my-pvp-pack/refs/heads/main/major-update-spriteshet.png",
+  "||miniblox.*textures/spritesheet.png": "https://raw.githubusercontent.com/juggernautkohaku-cell/miniblox-texture-pack/refs/heads/main/texture/miniblox-true-spritesheet.png",
   "||miniblox.*assets/default-DKNlYibk.png": "https://raw.githubusercontent.com/juggernautkohaku-cell/my-pvp-pack/refs/heads/main/DEBUG/default.png",
   "||miniblox.*assets/miniblox-Dj36hMhG": "https://raw.githubusercontent.com/juggernautkohaku-cell/my-pvp-pack/refs/heads/main/DEBUG/miniblox-default-icon.png",
   "||miniblox.*assets/Miniblox-Regular-Lz-C8nWS.otf": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/assets/Miniblox-Regular-Lz-C8nWS.otf",
