@@ -1,5 +1,5 @@
 const URL_MAP = {
-  "||miniblox.*textures/spritesheet.png": "https://raw.githubusercontent.com/juggernautkohaku-cell/miniblox-texture-pack/refs/heads/main/texture/miniblox-true-spritesheet.png",
+  "||miniblox.*textures/spritesheet.png": "https://raw.githubusercontent.com/juggernautkohaku-cell/miniblox-texture-pack/refs/heads/main/texture/miniblox-true-spritesheet-1.0.png",
   "||miniblox.*assets/default-DKNlYibk.png": "https://raw.githubusercontent.com/juggernautkohaku-cell/my-pvp-pack/refs/heads/main/DEBUG/default.png",
   "||miniblox.*assets/miniblox-Dj36hMhG": "https://raw.githubusercontent.com/juggernautkohaku-cell/miniblox-texture-pack/refs/heads/main/miniblox-logo.png",
   "||miniblox.*assets/Miniblox-Regular-Lz-C8nWS.otf": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/assets/Miniblox-Regular-Lz-C8nWS.otf",
@@ -37,7 +37,7 @@ const URL_MAP = {
   "||miniblox.*textures/models/armor/leather_layer_1.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/leather_layer_1.png",
   "||miniblox.*textures/models/armor/leather_layer_2.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/leather_layer_2.png",
   "||miniblox.*textures/elytra.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21/assets/minecraft/textures/entity/elytra.png",
-  "||miniblox.*textures/entity/minecart/minecart.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21/assets/minecraft/textures/entity/minecart.png",
+  "||miniblox.*textures/entity/minecart/minecart.png": "https://raw.githubusercontent.com/juggernautkohaku-cell/miniblox-texture-pack/refs/heads/main/texture/entity/minecart/minecart.png",
   "||miniblox.*textures/entity/armorstand/armorstand.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/armorstand/wood.png"
 };
 
