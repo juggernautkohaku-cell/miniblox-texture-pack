@@ -42,7 +42,8 @@ const URL_MAP = {
   "||miniblox.*textures/particle/critical_hit.png": "https://raw.githubusercontent.com/juggernautkohaku-cell/miniblox-texture-pack/refs/heads/main/texture/particle/critical_hit.png",
   "||miniblox.*textures/entity/enchanting_table_book.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/24w21a/assets/minecraft/textures/entity/enchanting_table_book.png",
   "||miniblox.*textures/entity/experience_orb.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/24w21a/assets/minecraft/textures/entity/experience_orb.png",
-  "||miniblox.*textures/entity/villager/butcher.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/villager/villager.png"
+  "||miniblox.*textures/entity/villager/butcher.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/villager/villager.png",
+  "||miniblox.*textures/mace.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/item/mace.png"
 };
 
 
